@@ -20,7 +20,7 @@
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 				<key>invisibles</key>
-				<string>#ffc600</string>
+				<string>#ffffff30</string>
 				<key>selection</key>
 				<string>#0050a4</string>
 			</dict>
